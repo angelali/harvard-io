@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('fonts/BebasNeue-webfont.eot');
+    src: url('fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/BebasNeue-webfont.woff') format('woff'),
+         url('fonts/BebasNeue-webfont.ttf') format('truetype'),
+         url('fonts/BebasNeue-webfont.svg#bebas_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Ostrich Black';
+    src: url('fonts/ostrich-black-webfont.eot');
+    src: url('fonts/ostrich-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ostrich-black-webfont.woff') format('woff'),
+         url('fonts/ostrich-black-webfont.ttf') format('truetype'),
+         url('fonts/ostrich-black-webfont.svg#ostrich_sansblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Ostrich Dashed';
+    src: url('fonts/ostrich-dashed-webfont.eot');
+    src: url('fonts/ostrich-dashed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ostrich-dashed-webfont.woff') format('woff'),
+         url('fonts/ostrich-dashed-webfont.ttf') format('truetype'),
+         url('fonts/ostrich-dashed-webfont.svg#ostrich_sans_dashedmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Ostrich Light';
+    src: url('fonts/ostrich-light-webfont.eot');
+    src: url('fonts/ostrich-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ostrich-light-webfont.woff') format('woff'),
+         url('fonts/ostrich-light-webfont.ttf') format('truetype'),
+         url('fonts/ostrich-light-webfont.svg#ostrich_sanscondensed_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Ostrich Regular';
+    src: url('fonts/ostrich-rounded-webfont.eot');
+    src: url('fonts/ostrich-rounded-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ostrich-rounded-webfont.woff') format('woff'),
+         url('fonts/ostrich-rounded-webfont.ttf') format('truetype'),
+         url('fonts/ostrich-rounded-webfont.svg#ostrich_sans_roundedmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
